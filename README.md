@@ -1,28 +1,15 @@
-# This is a large heading
+### Comida
+My favorite **food** are:
+- Pozole
+- Mole de olla
+- Quesadillas
 
-## This is a smaller heading
+### Contact Sports
+My preferred *contact sports* are:
+1. Mixed Martial Arts
+2. Muay Thai
+3. Judo
+4. Grappling
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-
-- This is
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contac
+My youtube channel is [here](https://www.youtube.com/channel/UCuoh19X9GOwztcH5tlMNW7w).
